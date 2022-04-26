@@ -4,6 +4,8 @@
 
 # react-native-progress-steps
 
+### IMPORTANT: I just forked this repo and still working on it to use in my projects, updates will come as soon as possible. Original author: https://colbymillerdev.com
+
 A simple and fully customizable React Native component that implements a progress stepper UI. 
 * Each steps content is displayed inside of a customizable ScrollView. 
 * Fully customizable buttons are displayed at the bottom of the component to move between steps.
