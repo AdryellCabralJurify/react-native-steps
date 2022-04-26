@@ -1,0 +1,8 @@
+{
+  "name": "react-form-steps-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AdryellCabralJurify/react-native-steps.git",
+  "author": "Adryell Cabral <adryell.cabral@jurify.com.br>",
+  "license": "MIT"
+}
