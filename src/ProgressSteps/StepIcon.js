@@ -233,4 +233,3 @@ StepIcon.defaultProps = {
 };
 
 export default StepIcon;
-
